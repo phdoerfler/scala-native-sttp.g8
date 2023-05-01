@@ -1,0 +1,10 @@
+*~
+**/.DS_Store
+**/target
+.bloop
+.bsp
+.metals
+**/metals.sbt
+*.iml
+.idea
+.vscode
